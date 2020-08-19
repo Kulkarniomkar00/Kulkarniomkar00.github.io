@@ -1,0 +1,24 @@
+header{
+	background-color:#000000;
+}
+h1,h2{
+	color: #EF1D08;
+	font-family: "Copper Black",Georgia,arial;
+}
+h1{
+	text-align: center;
+	font-variant: small-caps;
+}
+section{
+	background-color:#ffa500;
+	font-size: 110%;
+	color: #2802ff;
+}
+aside{
+	display: none;
+}
+a{
+	color: #0dd8ec;
+	background-color: #504141;
+	font-family: arial;
+}
